@@ -70,7 +70,7 @@ $(document).ready(function(){
     <li><img src="https://www.tsiii.com/para/images/slide/s07.png" alt="クオリティーゴルフ" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s13.png" alt="ナチュラルスタイルのサラシア茶" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s03.png" alt="フランス家庭料理 ル・ポワソン" /></li>
-    <li><img src="https://www.tsiii.com/para/images/slide/s04.png" alt="Slideshow Image 4" /></li>
+    <li><img src="https://www.tsiii.com/para/images/slide/s04.png" alt="能登半島 神棚米" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s05.png" alt="Slideshow Image 5" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s06.png" alt="Slideshow Image 6" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s08.png" alt="Slideshow Image 8" /></li>
