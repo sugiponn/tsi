@@ -64,18 +64,18 @@ $(document).ready(function(){
               作ることが <br>
               僕たちの仕事です。<br> <br>
 <ul class="bxslider">
-    <li><img src="https://www.tsiii.com/para/images/slide/s01.png" alt="Slideshow Image 1" class="active" /></li>
+    <li><img src="https://www.tsiii.com/para/images/slide/s01.png" alt="TS Interactive" class="active" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s11.png" alt="日本橋・グリーンゴルフ" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s12.png" alt="三英化学株式会社" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s07.png" alt="クオリティーゴルフ" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s13.png" alt="ナチュラルスタイルのサラシア茶" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s03.png" alt="フランス家庭料理 ル・ポワソン" /></li>
     <li><img src="https://www.tsiii.com/para/images/slide/s04.png" alt="能登半島 神棚米" /></li>
-    <li><img src="https://www.tsiii.com/para/images/slide/s05.png" alt="Slideshow Image 5" /></li>
-    <li><img src="https://www.tsiii.com/para/images/slide/s06.png" alt="Slideshow Image 6" /></li>
-    <li><img src="https://www.tsiii.com/para/images/slide/s08.png" alt="Slideshow Image 8" /></li>
-    <li><img src="https://www.tsiii.com/para/images/slide/s09.png" alt="Slideshow Image 9" /></li>
-    <li><img src="https://www.tsiii.com/para/images/slide/s02.png" alt="Slideshow Image 3" /></li>
+    <li><img src="https://www.tsiii.com/para/images/slide/s05.png" alt="ミエル不動産" /></li>
+    <li><img src="https://www.tsiii.com/para/images/slide/s06.png" alt="CROSSROAD DVD" /></li>
+    <li><img src="https://www.tsiii.com/para/images/slide/s08.png" alt="BABAYA" /></li>
+    <li><img src="https://www.tsiii.com/para/images/slide/s09.png" alt="ひかり学院" /></li>
+    <li><img src="https://www.tsiii.com/para/images/slide/s02.png" alt="ecoBikeサイクルジャージ" /></li>
 </ul>
      </p>
      <!--p><a href="http://service.tsiii.com/" target="_blank"><span class="txt_red">TSIサービスはこちらです。</span></a></p-->
